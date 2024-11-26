@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qlspanda17
+- 👋 Hi.....
 - 👀 I’m interested in chess, programming, sport
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me : sonypame11@gmail.com
