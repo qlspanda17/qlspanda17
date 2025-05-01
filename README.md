@@ -1,8 +1,5 @@
-- 👋 Hi.....
-- 👀 I’m interested in chess, programming, sport
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me : sonypame11@gmail.com
-- ⚡ Fun fact: .... 
+  👋 Hi, I’m interested in chess, programming, and sports. I’m currently learning computer science.
+  📫 How to reach me: sonypame15@gmail.com
 
 <!---
 qlspanda17/qlspanda17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
