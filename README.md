@@ -1,6 +1,6 @@
-Hi , I'm Sony !
+# ***Hi , I'm Sony !***
 
-👾 Currently a second year computer science student 
+> - 👾 Currently a second year computer science student 
 
 
 
@@ -11,7 +11,7 @@ Hi , I'm Sony !
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qlspanda17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=qlspanda17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
